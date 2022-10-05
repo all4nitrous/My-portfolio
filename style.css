@@ -1,0 +1,42 @@
+body {
+  background: #000;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+.intro { background-image: url('https://wallpaperaccess.com/full/5160836.jpg'); width: 1280px;
+height: 720px;
+background-repeat: no-repeat;
+margin: auto;
+background-size: cover;
+padding: 30px;
+opacity: 1;
+ }
+
+.intro h1, p {text-align: center;
+vertical-align: middle;
+padding: 300px;
+font-family: lorem ipsum;
+color: fuchsia;
+}
+
+h2 {color: deepskyblue; 
+border: outset;
+text-align: center;
+border-color: fuchsia;
+margin: auto;
+width: 600px;
+padding: 25px;
+border-radius: 10px;
+font-family: monospace;
+font-size: 50px;
+}
+
+.skill-pics img { margin: auto;
+vertical-align: middle;
+padding: 75px 150px;
+ }
+
+
+
